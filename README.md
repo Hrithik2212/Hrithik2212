@@ -2,7 +2,7 @@
 
 <h3 align="center">Aspiring Data Scientist , Machine Learning Engineer from India</h3>
 
-<p align="center"><img src="datascience-pdusit-stock.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="550" height="550"/> </p>
+<p align="center"><img src="datascience-pdusit-stock.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="550" height="450"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik2212&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik2212" /> </p>
 
