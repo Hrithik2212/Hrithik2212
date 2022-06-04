@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 
-<img src="datascience-pdusit-stock.jpg"
+<h3 align="center">Aspiring Data Scientist , Machine Learning Engineer from India</h3>
+
+<img align="center" 
+     src="datascience-pdusit-stock.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-
-<h3 align="center">Aspiring Data Scientist , Machine Learning Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik2212&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik2212" /> </p>
 
