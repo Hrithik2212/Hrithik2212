@@ -18,9 +18,12 @@
 
 - 📫 How to reach me **hrthikredy2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Badges:</h3>
+<p align="center"><img src="mta-introduction-to-programming-using-python-certified-2022.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="50" height="50"/> </p>
 <p align="left">
 </p>
+<br/><br/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
