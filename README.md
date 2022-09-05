@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrithik2212" alt="hrithik2212" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Research Project with NASA and as an Data Science Intern at AML clouds(Australlain Fintech Startup)**
 
-- 🌱 I’m currently learning **Django , DL , Reinforcement Learning ,Embedded Systems**
+- 🌱 I’m currently learning **Advanced Computer Vision ,Embedded Systems**
 
-- 👯 I’m looking to collaborate on **Innovative Projects , Hackathon , Data science Hackathon**
+- 👯 I’m looking to collaborate on **Innovative Projects ,Research in AI, Hackathon , Data Science Hackathon**
 
-- 💬 Ask me about **Python ,Machine Learning**
+- 💬 Ask me about **Python ,Machine Learning ,Deep Learning, Computer Vision, Natural Language Processing, Arduino Programming**
 
 - 📫 How to reach me **hrthikredy2002@gmail.com**
 
