@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrithik2212" alt="hrithik2212" /></a> </p>
 
-- 🔭 I’m currently working on **Research Project with NASA and as an Data Science Intern at AML clouds(Australlain Fintech Startup)**
+- 🔭 I’m currently working on **Research Project on Satellite Imagery Analysis and as an Data Science Intern at AML clouds(Australlain Fintech Startup)**
 
 - 🌱 I’m currently learning **Advanced Computer Vision ,Embedded Systems**
 
