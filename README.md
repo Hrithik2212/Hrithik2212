@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img style="position:absolute; top:33%; left: 84%;"  src = "https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" 
-        width = 30px; height= 30px>, I'm Hrithik</h1>
+        width = 60px; height= 60px>, I'm Hrithik</h1>
 
 <h3 align="center">Aspiring Data Scientist , Machine Learning Engineer from India</h3>
 
@@ -65,10 +65,26 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   <img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
 
+<br>
+
+<h2 align="right"> 😂 Random Dev Meme </h2>
+
+<img src="https://random-memer.herokuapp.com/" width="512px" align="right"/>
+
+### Connect With Me On..(●'◡'●)
+  
+<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210" align ="left">
 
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<a href="https://www.linkedin.com/in/hrithik-reddy-0879a7207/"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
+     <br>
+     
+<a href="mailto:hr6466@srmist.edu.in"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
+     <br>
+     
+<a href="https://www.instagram.com/hrithik__reddy/"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
+     <br>
+     
 
 ---
 
