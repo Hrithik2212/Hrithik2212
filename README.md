@@ -24,11 +24,13 @@
 
 - 📫 How to reach me **hrthikredy2002@gmail.com**
 
-<h3 align="left">Badges:</h3>
+## 📛Badges
+
 <p align="left"><img src="mta-introduction-to-programming-using-python-certified-2022.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="50" height="50"/> </p>
 <p align="left">
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+## 🛠️Language and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,9 +59,12 @@
 <img src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" width="65" height="30"/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hrithik2212&theme=radical&hide_border=false)<br/>
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Hrithik2212&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-stats.vercel.app/api?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hrithik2212&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
+
 
 
 ### 😂 Random Dev Meme
