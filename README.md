@@ -3,7 +3,9 @@
 
 <h3 align="center">Aspiring Data Scientist , Machine Learning Engineer from India</h3>
 
-<p align="center"><img src="datascience-pdusit-stock.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="550" height="450"/> </p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrithik2212&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+
+<!--...<p align="center"><img src="datascience-pdusit-stock.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="550" height="450"/> </p>-->
 
 
 [![](https://visitcount.itsvg.in/api?id=Hrithik2212&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -67,9 +69,7 @@
 
 <br>
 
-<h2 align="right"> 😂 Random Dev Meme </h2>
 
-<img src="https://random-memer.herokuapp.com/" width="512px" align="right"/>
 
 ### Connect With Me On..(●'◡'●)
   
