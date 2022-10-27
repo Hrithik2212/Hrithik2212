@@ -63,7 +63,10 @@
 <img src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" width="65" height="30"/>
 
 # 📊 GitHub Stats:
+
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Hrithik2212&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align='right' src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="270"> 
+
 ![](https://github-readme-stats.vercel.app/api?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hrithik2212&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
