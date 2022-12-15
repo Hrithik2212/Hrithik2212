@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img style="position:absolute; top:33%; left: 84%;"  src = "https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" 
-        width = 60px; height= 60px>, I'm Hrithik</h1>
+<h1 align="center">Hi 👋, I'm Hrithik</h1>
 
 <h3 align="center">Aspiring Data Scientist , Machine Learning Engineer from India</h3>
 
