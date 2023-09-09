@@ -17,7 +17,7 @@
 
 <!--...- 🔭 I’m currently working on **Research Project on Satellite Imagery Analysis and as an Data Science Intern at AML clouds(Australlain Fintech Startup)**-->
 
-- 🌱 I’m currently learning ** Transformers , DSA ,  LLM's , LangChain **
+- 🌱 I’m currently learning **Transformers , DSA ,  LLM's , LangChain**
 
 - 👯 I’m looking to collaborate on **Innovative Projects ,Research in AI, Hackathon , Data Science Hackathon**
 
