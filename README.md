@@ -63,7 +63,7 @@
 
 <img align='right' src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="270"> 
 
-![](https://github-readme-stats.vercel.app/api?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hrithik2212&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik2212&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
